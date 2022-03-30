@@ -1,0 +1,12 @@
+January		1709.95
+February	1923.76	
+March		1685.32
+April		1532.94
+May		1752.13
+June		1911.45
+July		2241.76
+August		2109.88
+September	1902.63
+October		1876.30
+November	1989.75
+December	2048.23
